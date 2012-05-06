@@ -29,9 +29,9 @@ public class Twitter4JService implements TwitterService {
 
     public static final String STORE_SECRET_TOKEN = "secret-token";
 
-    public static final String CONSUMER_KEY = "5l4AizkyC3rr8X6q9lcqzg";
+    public static final String CONSUMER_KEY = "puPNX7nDl6twBlO69W137w";
 
-    public static final String CONSUMER_SECRET_KEY = "JgtJ6Uc9BJo10tvnq4PwK6Qqah3Vt9GGTJr3h8KcfwM";
+    public static final String CONSUMER_SECRET_KEY = "dLzdUUx1DSKJWNCUIWel6RcwaUrnDDHGYQinIbKSpg";
 
     public static final String OAUTH_CALLBACK_SCHEME = "x-oauth-twitter";
 
